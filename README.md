@@ -14,7 +14,7 @@ Sklearn, Pandas, Numpy, Nltk, Folium
 Process, analyse and display information about BnBs in Athens for a 3 month period from February to April in year 2019. 
 
 ## Tips
-Add the 'data' directory in your 'gdrive/My Drive/Colab Notebooks/' path to execute correctly
+Add the `data` directory in your `gdrive/My Drive/Colab Notebooks/` path to execute correctly
 
 ## Author
 Vassilis Panagakis
